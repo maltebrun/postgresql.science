@@ -13,3 +13,6 @@ A tester. Applications ?
 
 # GROUP BY CASE
 A tester. Reprendre le versivore. Efficacité par rapport à d'autes techniques (ex versivore). Pose d'index CASE en conséquence.
+
+# Simuler du procédural avec les CTE, comparatif avec les requêtes imbriquées
+Avantages inconvénients - Comparer les plans d'exécution.
