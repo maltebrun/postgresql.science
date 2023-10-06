@@ -16,3 +16,10 @@ A tester. Reprendre le versivore. Efficacité par rapport à d'autes techniques 
 
 # Simuler du procédural avec les CTE, comparatif avec les requêtes imbriquées
 Avantages inconvénients - Comparer les plans d'exécution.
+
+# Rubriques :
+## Générer et simuler
+## Statistiques
+### Dénombrer
+### Numéroter
+## AI
