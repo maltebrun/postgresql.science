@@ -19,7 +19,24 @@ Avantages inconvénients - Comparer les plans d'exécution.
 
 # Rubriques :
 ## Générer et simuler
+### Générer au hasard
+### Enumérer
 ## Statistiques
 ### Dénombrer
+Compteer au global, sur filtre, par groupe
 ### Numéroter
+Numéroter au global, ou par groupe, ou uniquement les lignes vérifiant une condition, avec ou sans ex-aequo
+### Trier
+### Echantilloner
+## Mathematiques
+## Physique
+### Séries temporelles, TimeScale
+### FFT
+## Chimie
+## Biologie
+## Algorithmie
+### Recuit simulé
+### Dijkstra
+### Ilôtage
+### Voyageur de commerce, CARP
 ## AI
