@@ -2,6 +2,8 @@
 
     select nom_de_table from nom_de_table ;
 
+    select j11, j12 from jdsl_grille_fr_20231011 as j11 full join jdsl_grille_fr_20231012 as j12 on j11 = j12 where j11 is null or j12 is null;
+
 Tester cette technique pour lister les enregistrements d'une table regroupés sur un seul champ
 Type du champ obtenuu ?
 Applications :
